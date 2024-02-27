@@ -20,7 +20,23 @@ Feel free to reach out to me via email at [yariginanm@gmail.com](mailto:yarigina
 𝐋𝐞𝐭'𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐞 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫! 🚀
 ---
 ### TECHNOLOGIES:
-![HTML](https://img.icons8.com/color/96/000000/html-5.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React.js](https://img.icons8.com/color/96/000000/react-native.png) ![Node.js](https://img.icons8.com/color/96/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/96/000000/express.png) ![MongoDB](https://img.icons8.com/color/96/000000/mongodb.png) ![TypeScript](https://img.icons8.com/color/96/000000/typescript.png)  ![GraphQL](https://img.icons8.com/color/96/000000/graphql.png) 
+<p align="left">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" alt="HTML">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" alt="CSS">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" alt="JavaScript">
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" alt="React.js">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" alt="Node.js">
+  <img src="https://img.icons8.com/color/96/000000/express.png" width="96" alt="Express.js">
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" alt="MongoDB">
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" width="96" alt="TypeScript">
+  <img src="https://img.icons8.com/color/96/000000/graphql.png" width="96" alt="GraphQL">
+  <img src="https://res.cloudinary.com/dqgvmwnpl/image/upload/v1709037513/postman-icon_ofl0ce.png" width="96" alt="Postman">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="106" alt="Next.js">
+</p>
+
+
+
+
 
 
 
