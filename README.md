@@ -3,7 +3,7 @@
 
 👋 **𝙷𝚎𝚢 𝚝𝚑𝚎𝚛𝚎!** I'm Nadiia Iarygina!
 
-🌍 I'm a multilingual enthusiast speaking English, Ukrainian, and Russian fluently, while also learning German and Spanish. 🇺🇦🇷🇺🇬🇧🇩🇪🇪🇸
+🌍 I'm a multilingual enthusiast speaking English, Ukrainian, and Russian fluently, while also learning German and Spanish.
 
 🎓 Recently, I successfully completed a Full Stack course at Code Academy Berlin, and now I'm continuing my professional development journey at ReDI School.
 
