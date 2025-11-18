@@ -1,34 +1,55 @@
-# 👋 Hi there! I'm Nadiia Iarygina
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVyeWY5b2loeXhyaDR4Y3RsbmVma2E0aXZpazAzcDBocjVtdWNnOSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/13HgwGsXF0aiGY/giphy.gif" width="230"/>
 
-I'm passionate about web development and continuously strive to expand my knowledge and skills in this ever-evolving field. Let's connect and create something amazing together!
+# 👋 Hey, I'm **Nadiia**
 
-## About Me
+Curious mind. Fast learner. Developer building meaningful digital experiences — one commit at a time.
 
-- 🌍 **Multilingual Enthusiast:** Fluent in English, Ukrainian, and Russian, and currently learning German and Spanish.
-- 🎓 **Education:** Recently completed a Full Stack course at Code Academy Berlin and continuing my professional development journey at ReDI School.
-- 💻 **Web Development:** Passionate about building innovative solutions and always eager to learn, grow, and explore new technologies.
+I'm passionate about solving real problems with clean, thoughtful code and learning modern technologies that make software intuitive and accessible. If something improves education, creativity, or user experience — I'm in.
 
-## 🚀 Let's Connect and Create Amazing Projects Together!
+---
 
-- 📧 Email: yariginanm@gmail.com
-- 🔗 LinkedIn: [Nadiia Iarygina](https://www.linkedin.com/in/nadiia-iarygina/)
+## ✨ What I Like Working On
 
-## Technologies
+✔️ Responsive, user-focused interfaces  
+✔️ Well-structured backend logic  
+✔️ Debugging (eventually 😅)  
+✔️ Learning and experimenting with new tools and ideas  
 
-<p align="left">
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" alt="HTML">
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" alt="CSS">
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" alt="JavaScript">
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" alt="React.js">
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" alt="Node.js">
-  <img src="https://img.icons8.com/color/96/000000/express.png" width="96" alt="Express.js">
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" alt="MongoDB">
-  <img src="https://img.icons8.com/color/96/000000/typescript.png" width="96" alt="TypeScript">
-  <img src="https://img.icons8.com/color/96/000000/graphql.png" width="96" alt="GraphQL">
-  <img src="https://res.cloudinary.com/dqgvmwnpl/image/upload/v1709037513/postman-icon_ofl0ce.png" width="96" alt="Postman">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="106" alt="Next.js">
-  <img src="https://img.icons8.com/color/96/000000/figma.png" width="96" alt="Figma">
-</p>
+---
+
+## 🛠️ My Tech Stack
+
+```diff
++ Frontend
+  React · TypeScript · JavaScript · Next.js · TailwindCSS · HTML · CSS
+
+- Backend
+  Node.js · Express · REST APIs · MongoDB · GraphQL
+
+# Tools
+  Git · Postman · Figma · Vite · VS Code
+
+ ## 🌍 Languages
+
+| Language | Level |
+|----------|--------|
+| Ukrainian 🇺🇦 | Native |
+| English 🇬🇧 | Advanced |
+| Russian 🇷🇺 | Fluent |
+| German 🇩🇪 | Learning |
+| Spanish 🇪🇸 | Learning |
+
+## 📬 Contact
+
+📧 Email: **yariginanm@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/nadiia-iarygina/**
+
+ ## 📚 Currently Learning
+
+- TypeScript best practices  
+- Scalable architecture patterns  
+- Unit testing and clean code  
+- Debugging without crying 😅  
 
 
 
