@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVyeWY5b2loeXhyaDR4Y3RsbmVma2E0aXZpazAzcDBocjVtdWNnOSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/13HgwGsXF0aiGY/giphy.gif" width="230"/>
+
 
 # 👋 Hey, I'm **Nadiia**
 
@@ -19,7 +19,6 @@ I'm passionate about solving real problems with clean, thoughtful code and learn
 
 ## 🛠️ My Tech Stack
 
-```diff
 + Frontend
   React · TypeScript · JavaScript · Next.js · TailwindCSS · HTML · CSS
 
@@ -33,11 +32,11 @@ I'm passionate about solving real problems with clean, thoughtful code and learn
 
 | Language | Level |
 |----------|--------|
-| Ukrainian 🇺🇦 | Native |
-| English 🇬🇧 | Advanced |
-| Russian 🇷🇺 | Fluent |
-| German 🇩🇪 | Learning |
-| Spanish 🇪🇸 | Learning |
+| Ukrainian | Native |
+| English  | Advanced |
+| Russian  | Fluent |
+| German  | Upper-Intermediate |
+
 
 ## 📬 Contact
 
